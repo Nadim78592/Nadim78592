@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/siddiquishb30" target="blank"><img src="https://img.shields.io/twitter/follow/siddiquishb30?logo=twitter&style=for-the-badge" alt="siddiquishb30" /></a> </p>
 
-- 🔭 I’m currently working on [CREDIT CARD FRAUD DETECTION](http://localhost:8889/notebooks/task5credit_cardfraud.ipynb)
+- 🔭 I’m currently working on [POWER BI & SQL PROJECT]
 
 - 🌱 I’m currently learning **Data Analytics**
 
